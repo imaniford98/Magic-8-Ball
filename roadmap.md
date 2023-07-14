@@ -10,4 +10,4 @@
 - [x] Test and troubleshoot GUI - Make sure it's running with the code
 - [ ] Make small modifications if necessary.
 - [ ] Review & finalize code.
-- [ ] Ensure all changes have been committed to the Repository
+- [ ] Ensure all changes have been committed to the Repository 
