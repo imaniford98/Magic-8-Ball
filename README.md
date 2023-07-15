@@ -1,5 +1,5 @@
 # Magic-8-Ball
-The Magic 8-Ball program allows you to ask for counsel or read fortunes. This magic 8-ball will veer you in the direction of the solution to your issues whenever you find yourself in a predicament, regardless of what time of day it may be.
+The Magic 8-Ball program allows you to ask questions or scenarios about the futture. This magic 8-ball will give you an answer of the what your are asking for.You can ask anytime of day or night.
 Try it out and be a person of curiosity. 
 
 # Features
