@@ -2,12 +2,12 @@
 - [x] Create ReadMe & License
 - [x] Create Road Map
 - [x] Find related repositories and assess the code
-- [x] Create base code
+- [x] Try coding 
 - [x] Test and troubleshoot base code
-- [x] Rework code as neccesary
+- [x] Rework any coding if needed
 - [x] Test code until no errors
 - [x] Start working on the GUI (Tkinter)
 - [x] Test and troubleshoot GUI - Make sure it's running with the code
-- [ ] Make small modifications if necessary.
+- [ ] Change up the smallest issues
 - [ ] Review & finalize code.
 - [ ] Ensure all changes have been committed to the Repository 
