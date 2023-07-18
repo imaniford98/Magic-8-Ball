@@ -51,5 +51,12 @@ def play_again():
         time.sleep(1.5)
         print('...Goodbye human ...')
         quit()
-
+    if quest =='no':
+        prnt('')
+        play_game()
+    elif quest !='no':
+        print('')
+        time.sleep(1)
+        print('...Have a good day...')
+        quit()
 play_game()
